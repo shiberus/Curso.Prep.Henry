@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width:400xp;
+}
+h1{
+    color:blueviolet
+}
+#spanId{
+margin:50px;
+} 
+#thirdDiv{
+   width:500px;
+   height: 600px;
+   padding:50px;
+   border: 2px lightseagreen;
+   background: lightskyblue;
+}
